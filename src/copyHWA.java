@@ -1,4 +1,4 @@
-public class HWApp { // ЗАДАНИЕ 1
+public class copyHWA { // ЗАДАНИЕ 1
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
