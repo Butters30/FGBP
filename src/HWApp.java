@@ -1,4 +1,4 @@
-public class HomeWorkApp { // ЗАДАНИЕ 1
+public class HWApp { // ЗАДАНИЕ 1
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
@@ -34,4 +34,4 @@ public class HomeWorkApp { // ЗАДАНИЕ 1
             System.out.println("a < b");
         }
     }
-}
+    }
