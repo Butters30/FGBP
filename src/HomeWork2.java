@@ -26,7 +26,7 @@ public class HomeWork2 {
             return true;}
     }
     public static void task4(int times, String message){ //ЗАДАНИЕ 4
-        for (int i = times; i < 8; i++){
+        for (int i = times; i < 8; i++) {
             System.out.println(message);}
     }
 }
