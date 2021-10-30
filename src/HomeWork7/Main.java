@@ -15,4 +15,3 @@ public class Main {
         myCat3.eat(myPlate);myCat3.fullness();myPlate.info();
     }
 }
-

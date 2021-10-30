@@ -23,4 +23,3 @@ public class Plate {
         System.out.println("Котикам в миску добавили 250 грамм корма");
     }
 }
-
