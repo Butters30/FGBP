@@ -1,3 +1,5 @@
+package HomeWork7;
+
 public class Cat {
     private final String name;
     private final int appetite;
